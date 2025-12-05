@@ -57,17 +57,16 @@ pre code {
 
 **Contact:** 23f2001472@ds.study.iitm.ac.in
 
-- Maintainable in Git (Markdown)
-- Exportable to HTML/PDF/PPTX with Marp CLI
-- Uses a small custom theme & directives
+- Maintainable in Git (Markdown)  
+- Exportable to HTML/PDF/PPTX with Marp CLI  
+- Uses a small custom theme & directives  
 
 <!-- _footer: "Product Docs • v1.0" -->
 <!-- _header: "**Product Documentation**" -->
 
 ---
 
-<!-- _backgroundImage: url('assets/architecture-bg.jpg') -->
-<!-- _backgroundFit: cover -->
+![bg fit](assets/architecture-bg.jpg)
 
 # Architecture & Design  
 <!-- _class: center, middle -->
@@ -75,8 +74,8 @@ pre code {
 > Visual overview of the product architecture.
 
 <div class="note">
-This slide uses a **background image**.  
-Upload `assets/architecture-bg.jpg` to the repository.
+This slide uses a **background image** located at:<br>
+`assets/architecture-bg.jpg`
 </div>
 
 ---
